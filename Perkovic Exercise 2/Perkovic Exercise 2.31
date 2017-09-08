@@ -1,0 +1,3 @@
+lst.extend(list) - Voegt list toe aan de list
+lst.copy(list)   - Kopieert list naar lst
+lst.clear()      - Maakt de lijst leeg
