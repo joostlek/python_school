@@ -1,4 +1,6 @@
 letters = ('A', 'C', 'B', 'B', 'C', 'A', 'C', 'C', 'B')
+
+# dit kan sneller met letters.count(.....)
 res = [0, 0, 0]
 for letter in letters:
     if letter == "A":
