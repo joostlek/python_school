@@ -1,3 +1,3 @@
 score = input("Geef je score: ")
-if score > 15:
-    print("Gefeliciteerd!\nMet een score van" + str(score) + "ben je geslaagd")
+if int(score) > 15:
+    print("Gefeliciteerd!\nMet een score van" + score + "ben je geslaagd")
